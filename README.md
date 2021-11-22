@@ -18,3 +18,6 @@ The database in csv, in its first line must contain the identifiers (the ones th
 
 ### Example
 Inside the test_data folder is a sample template and database.
+
+
+**Made with ❤ for Gabriela.**
